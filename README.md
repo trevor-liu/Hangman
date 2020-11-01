@@ -1,3 +1,1 @@
-To run:
-    - Go to (https://repl.it/join/zwayrati-trevorliu)
-    - Click run
+To run: Go to (https://repl.it/join/zwayrati-trevorliu) and Click run
